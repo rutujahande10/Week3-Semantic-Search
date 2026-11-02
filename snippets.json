@@ -1,0 +1,42 @@
+
+[
+    "Python is a high-level programming language used for web development, automation, data analysis, and artificial intelligence.",
+
+    "Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data without being explicitly programmed.",
+
+    "Deep learning uses artificial neural networks with multiple layers to learn complex patterns from large datasets.",
+
+    "Natural Language Processing enables computers to understand, interpret, and generate human language.",
+
+    "Text embeddings convert words, sentences, or documents into numerical vectors that represent their semantic meaning.",
+
+    "Cosine similarity measures how similar two vectors are by calculating the cosine of the angle between them.",
+
+    "Semantic search retrieves information based on the meaning and context of a query rather than exact keyword matching.",
+
+    "Vector databases store and retrieve high-dimensional numerical vectors efficiently for similarity search applications.",
+
+    "Sentence Transformers is a Python library used to generate meaningful embeddings for sentences and paragraphs.",
+
+    "The all-MiniLM-L6-v2 model generates 384-dimensional sentence embeddings and is commonly used for semantic search.",
+
+    "The all-mpnet-base-v2 model generates 768-dimensional embeddings and can capture semantic relationships between sentences.",
+
+    "NumPy is a Python library used for numerical computing, mathematical operations, and working with multidimensional arrays.",
+
+    "Scikit-learn provides machine learning tools, including cosine similarity, classification, clustering, and data preprocessing.",
+
+    "A REST API allows applications to communicate with each other using HTTP methods such as GET, POST, PUT, and DELETE.",
+
+    "JSON is a lightweight data format commonly used to exchange and store structured information between applications.",
+
+    "Prompt engineering is the process of designing effective instructions to guide large language models toward useful responses.",
+
+    "Zero-shot prompting asks an AI model to complete a task without providing examples in the prompt.",
+
+    "Few-shot prompting provides a language model with a small number of examples to demonstrate the expected response format.",
+
+    "Vector search finds the nearest vectors to a query vector using similarity measures such as cosine similarity.",
+
+    "Embeddings are useful for recommendation systems, document retrieval, chatbots, question answering, and semantic search."
+]
